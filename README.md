@@ -26,8 +26,6 @@ A correlation heatmap to graphical representation how closely related the differ
 - Darker colors represent stronger correlations.
 - Lighter colors indicate weaker correlations.
 
-![image](https://github.com/Leila-Nyambura/phase_1_project/assets/164230963/f39474e0-5509-4421-9ac4-3f61d7f055ea)
-
 ![image](https://github.com/Leila-Nyambura/phase_1_project/assets/164230963/c50510e3-bda6-4eb3-9592-b2fe778b81fb)
 
 The heatmap generated shows the correlation matrix for three numerical features: ‘popularity’, ‘vote_average’, and ‘vote_count’. Analyzing the specific correlations:
