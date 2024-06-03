@@ -21,7 +21,17 @@ The movie dataset is from [The Movie Data Base](https://www.themoviedb.org/) web
 This project used Exploratory Data Analysis to provide insights to Microsoft as they intend to venture into box office movie production sector.
 
 ## Results
+### - Distribution of Numerical Columns
+The distribution of the 'popularity’ scores of movies in the dataset.
+![image](https://github.com/Leila-Nyambura/phase_1_project/assets/164230963/61e22cb0-91f4-47da-8ea4-4342d8772a84)
 
+The distribution of average vote ratings given to movies.
+![image](https://github.com/Leila-Nyambura/phase_1_project/assets/164230963/d9eb1b55-7be6-4fcd-a6ed-63d62a5278fb)
+
+The distribution of the number of votes received by movies.
+![image](https://github.com/Leila-Nyambura/phase_1_project/assets/164230963/ca108257-bdb7-4f16-bcc6-610c8d98a516)
+
+### - Correlation Analysis
 A correlation heatmap to graphical representation how closely related the different variables are within the dataset.
 - Darker colors represent stronger correlations.
 - Lighter colors indicate weaker correlations.
